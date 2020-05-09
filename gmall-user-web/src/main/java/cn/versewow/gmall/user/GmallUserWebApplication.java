@@ -1,13 +1,13 @@
-package com.example.index;
+package cn.versewow.gmall.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IndexApplication {
+public class GmallUserWebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IndexApplication.class, args);
+        SpringApplication.run(GmallUserWebApplication.class, args);
     }
 
 }
