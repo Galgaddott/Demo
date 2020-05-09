@@ -1,4 +1,4 @@
-package cn.versewow.gmall.gmalluser.user.mapper;
+package cn.versewow.gmall.user.mapper;
 
 
 import cn.versewow.gmall.bean.UmsMember;
