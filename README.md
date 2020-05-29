@@ -9,6 +9,11 @@ gmall-user-web     用户服务的web层8080   springboot工程
 gmall-manage-service 管理系统service层8071  springboot工程
 gmall-manage-web     管理系统web层8081      springboot工程
 
+gmall-item-web                 8082
+
+gmall-search-service 搜素服务  8074
+gmall-search-web     搜素服务  8083
+
 fastdfs-client-java  FastDfs客户端模块
 
 配置事项：
