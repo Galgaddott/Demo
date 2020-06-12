@@ -11,8 +11,14 @@ gmall-manage-web     管理系统web层8081      springboot工程
 
 gmall-item-web                 8082
 
-gmall-search-service 搜素服务  8074
-gmall-search-web     搜素服务  8083
+gmall-search-service 搜索服务  8074
+gmall-search-web     搜索服务  8083
+
+gmall-cart-service 购物车  8074 
+gmall-cart-web     购物车  8084
+
+gmall-passport-web 用户认证中心 8085
+
 
 fastdfs-client-java  FastDfs客户端模块
 
